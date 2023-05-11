@@ -1,13 +1,10 @@
 {
-  "nome": "Willian Dantas",
-  "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "name": "Willian Dantas",
+  "photo": "https://avatars.githubusercontent.com/u/70144816?v=4",
+  "job": "Future Junior Developer",
+  "location": "Rio de Janeiro - RJ",
+  "phone": "(21) 96465-7428",
+  "email": "dwlzdantas@gmail.com",
   "skills": {
     "hardSkills": [
       {
