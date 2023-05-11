@@ -41,17 +41,17 @@
     {
       "name": "Pokedex totalmente dinâmica pela PokeAPI",
       "url": "https://github.com/dwlz/js-developer-pokedex",
-      "git": true
+      "github": true
     },
     {
       "name": "Consultor de CEP",
       "url": "https://github.com/dwlz/novo-projeto",
-      "git": true
+      "github": true
     },
     {
       "name": "Lista de Tarefas usando React",
       "url": "https://github.com/dwlz/lista",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
