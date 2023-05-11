@@ -8,16 +8,20 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://github.com/dwlz/js-developer-portfolio/blob/main/data/imgs/html.png?raw=true"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "CSS",
+        "logo": "https://github.com/dwlz/js-developer-portfolio/blob/main/data/imgs/css.png?raw=true"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://github.com/dwlz/js-developer-portfolio/blob/main/data/imgs/js.png?raw=true"
+      },
+      {
+        "name": "React",
+        "logo": "https://github.com/dwlz/js-developer-portfolio/blob/main/data/imgs/react.png?raw=true"
       }
     ],
     "softSkills": [
