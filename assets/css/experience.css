@@ -21,7 +21,7 @@
     display: inline-block;
     width: 1rem;
     height: 1rem;
-    background-image: url('/assets/img/icons/calendar.svg');
+    background-image: url('../img/icons/calendar.svg');
     background-repeat: no-repeat;
     background-size: contain;
     margin-right: .5rem;
